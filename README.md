@@ -1,2 +1,3 @@
 # HelloWord
-Play around here
+Play around here!
+...with all sorts of things
