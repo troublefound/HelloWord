@@ -1,3 +1,3 @@
 # HelloWord
 Play around here,
-with all sorts of things
+with all sorts of things.
